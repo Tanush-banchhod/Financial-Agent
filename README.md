@@ -28,7 +28,7 @@ This project demonstrates the implementation of Agentic AI using Phidata, where 
       pip install -r requirements.txt
     ```
 4. Set up your environment variables:
-   - Create a .env file in the root directory with your PHI_API_KEY.
+   - Create a .env file in the root directory with your PHI_API_KEY and GROQ_API_KEY.
      
 5. Run the application:
    ```bash
