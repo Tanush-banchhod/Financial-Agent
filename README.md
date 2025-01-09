@@ -9,7 +9,8 @@ This project demonstrates the implementation of Agentic AI using Phidata, where 
 ## How It Works  
 1. **Web Search Agent** gathers relevant insights from the web.  
 2. **Finance AI Agent** collects and formats financial data in tables.  
-3. Both agents collaborate to provide actionable insights autonomously.  
+3. Both agents collaborate to provide actionable insights autonomously.
+4. To experience the project on the Phidata Platform, use playground.py for seamless interaction with the agents in a web-based interface.
 
 ## Installation  
 
