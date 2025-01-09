@@ -16,7 +16,7 @@ This project demonstrates the implementation of Agentic AI using Phidata, where 
 1. Clone the repository:  
    ```bash
      git clone https://github.com/Tanush-banchhod/agentic-ai-project.git
-     cd agentic-ai-project
+     cd Financial-Agent
     ```
 2. Create a virtual environment:
    ```bash
